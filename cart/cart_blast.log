@@ -1,0 +1,13 @@
+2025-11-12 22:09:37,157 [INFO] __main__: ### Performing BLAST search ###
+2025-11-12 22:10:42,005 [INFO] __main__: [ Blast Results ] No hits found for the query.
+2025-11-12 22:10:42,005 [INFO] __main__: --- BLAST search complete ---
+2025-11-12 22:13:04,479 [INFO] __main__: ### Performing BLAST search ###
+2025-11-12 22:14:07,808 [INFO] __main__: BLAST request completed in 63.33 seconds
+2025-11-12 22:14:07,809 [INFO] __main__: [ Blast Results ] No hits found for the query.
+2025-11-12 22:14:07,809 [INFO] __main__: Saved raw BLAST XML to cart_blast_20251112T164407Z.xml for debugging
+2025-11-12 22:14:07,810 [INFO] __main__: --- BLAST search complete ---
+2025-11-12 22:16:39,769 [INFO] __main__: ### Performing BLAST search ###
+2025-11-12 22:17:43,043 [INFO] __main__: BLAST request completed in 63.27 seconds
+2025-11-12 22:17:43,043 [INFO] __main__: [ Blast Results ] No hits found for the query.
+2025-11-12 22:17:43,043 [INFO] __main__: Saved raw BLAST XML to cart_blast_20251112T164743Z.xml for debugging
+2025-11-12 22:17:43,044 [INFO] __main__: --- BLAST search complete ---
