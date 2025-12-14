@@ -1508,9 +1508,9 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ## 👨‍💻 Author
 
-**Developed by:** [Your Name]  
-**Contact:** [your.email@example.com]  
-**GitHub:** [github.com/yourusername]  
+**Developed by:** Prathamesh Anand  
+**Contact:** [prathameshsci963@gmail.com]  
+**GitHub:** [https://github.com/Prathameshsci369]  
 
 ---
 
@@ -1548,6 +1548,6 @@ Need help? Check these resources:
 
 **⭐ If you found this helpful, please star the repository! ⭐**
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Prathamesh Anand]
 
 </div>
