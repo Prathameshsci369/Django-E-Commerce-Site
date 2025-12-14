@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#e9ecef"/>
+  <text x="50%" y="50%" font-size="16" fill="#6c757d" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif">
+    No Image
+  </text>
+  <text x="50%" y="55%" font-size="12" fill="#adb5bd" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif">
+    Available
+  </text>
+</svg>
